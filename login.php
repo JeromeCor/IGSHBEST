@@ -18,7 +18,7 @@
     
 
       <h1>I-GPS</h1>
-<h5>Description Blablabla</h5>
+<h5>The software that optimises train tours for tourists</h5>
 
 <div align="center" class="col-xs-12">
 <form id="fcompte" action="Pieces.php" method="post">
